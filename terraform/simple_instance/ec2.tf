@@ -18,7 +18,7 @@ resource "aws_security_group" "ssh_traffic" {
     git_last_modified_at = "2021-10-25 12:40:03"
     git_last_modified_by = "42916741+gbrandyb@users.noreply.github.com"
     git_modifiers        = "42916741+gbrandyb"
-    git_org              = "gbrandyb"
+    git_org              = "ghouldaemon"
     git_repo             = "terragoat"
     yor_trace            = "cb592020-b3a0-449a-bd24-f53d2e14cf0d"
   }
@@ -35,7 +35,7 @@ resource "aws_instance" "web_server_instance" {
     git_last_modified_at = "2021-10-25 12:40:03"
     git_last_modified_by = "42916741+gbrandyb@users.noreply.github.com"
     git_modifiers        = "42916741+gbrandyb"
-    git_org              = "gbrandyb"
+    git_org              = "ghouldaemon"
     git_repo             = "terragoat"
     yor_trace            = "921b5bc4-9000-4d98-bb6f-0fa686968c07"
   }
